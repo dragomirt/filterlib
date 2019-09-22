@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1991b2d8-80ee-44c0-bef6-7c12eb18ff84" name="Default Changelist" comment="" />
+    <list default="true" id="1991b2d8-80ee-44c0-bef6-7c12eb18ff84" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/bin/darwin/gaussian_blur" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -41,6 +43,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -56,6 +61,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1177" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -67,6 +73,17 @@
             <path>
               <item name="filterlib" type="b2602c69:ProjectViewProjectNode" />
               <item name="filterlib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="filterlib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="filterlib" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="filterlib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="filterlib" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+              <item name="darwin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -125,12 +142,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569162530790</updated>
-      <workItem from="1569162532940" duration="3877000" />
+      <workItem from="1569162532940" duration="4040000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3877000" />
+    <option name="totallyTimeSpent" value="4040000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1177" extended-state="0" />
