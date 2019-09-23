@@ -1,0 +1,1 @@
+gcc main.c -o oil_filter -I/usr/local/Cellar/imagemagick/7.0.8-47/include/ImageMagick-7/ -I/usr/local/Cellar/imagemagick/7.0.8-47/include/ImageMagick-7/MagickCore -I/usr/local/Cellar/imagemagick/7.0.8-47/include/ImageMagick-7/MagickWand -lMagickCore-7.Q16HDRI -lMagickWand-7.Q16HDRI
