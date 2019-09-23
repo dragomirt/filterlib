@@ -93,13 +93,14 @@ module.exports = {
     OilFilter
 };
 
-(new OilFilter({
-    image: {
-        input: "/Users/dragomirturcanu/Developer/meanfilter/meanfilter/c1.jpg",
-        output: "/Users/dragomirturcanu/Developer/meanfilter/meanfilter/meanc1.jpg"
-    },
-    options: {
-        radius: 20,
-        sigma: 40
-    }
-})).then(() => { console.log('Oil Filter Done!'); })
+// Testing
+// (new OilFilter({
+//     image: {
+//         input: "/Users/dragomirturcanu/Developer/meanfilter/meanfilter/c1.jpg",
+//         output: "/Users/dragomirturcanu/Developer/meanfilter/meanfilter/meanc1.jpg"
+//     },
+//     options: {
+//         radius: 20,
+//         sigma: 40
+//     }
+// })).then(() => { console.log('Oil Filter Done!'); })
